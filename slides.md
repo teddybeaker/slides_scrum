@@ -1,6 +1,7 @@
 ---
 title: Scrum
 theme: beige
+css: css/styles.css
 ---
 
 # introduction to scrum
@@ -54,6 +55,14 @@ Note:
     *   testing
     *   maintenance
 
+----
+
+### tasks in software development
+
+In a simplest form, tasks are performed sequentially -> waterfall.
+
+![waterfall](images/2019-01-30_waterfall.jpg)
+
 ---
 
 ## agile software development
@@ -71,3 +80,31 @@ Note:
 
 ## scrum
 -   <https://scrumguides.org>
+
+----
+
+### scrum process
+
+![scrum](images/2019-01-30_scrum.jpg)
+
+----
+
+### sprint
+
+fixed time frame in which the team works on tasks
+
+----
+
+### team
+
+two special roles
+*   Product Owner: represents the product
+*   Scrum Master: is responsible for the process
+
+----
+
+### meetings
+
+*   Sprint Planning: plan the work for the sprint on the first day
+*   Demo/Review: show the product owner what was done in the sprint on the last day
+*   Retrospective: discuss within the team how the collaboration went and what could be improved in the next sprint
