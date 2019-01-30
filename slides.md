@@ -7,11 +7,15 @@ theme: beige
 
 Note:
 *   check visibility
+*   write takeaways
+    *   know that there are different process models
+    *   heard about scrum before
+    *   have resources at hand
 
 ----
 
 ## agenda
-*   process models
+*   development processes
 *   history of agile software development
 *   scrum
 
@@ -36,16 +40,32 @@ Note:
 
 ---
 
-## process models
+## development processes
 
 Why
 *   organize complex work
 *   organize many people
 
+Note:
+*   draw waterfall
+    *   requirements
+    *   design
+    *   implementation
+    *   testing
+    *   maintenance
+
 ---
 
 ## agile software development
 -   <https://agilemanifesto.org/>
+
+Note:
+*   self-organizing and cross-functional teams
+*   close collaboration with customer
+*   base for various frameworks such as scrum
+*   especially targets
+    *   complex systems
+    *   requirements that are difficult to predict
 
 ---
 
