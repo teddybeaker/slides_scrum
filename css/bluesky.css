@@ -1,0 +1,20 @@
+/* letsboot logo */
+.reveal {
+  background:url("./assets/bluesky_logo_claim_black.svg");
+  background-position: right 25px top 25px;
+  background-size: 20%;
+  background-repeat: no-repeat;
+}
+
+.reveal .slide-background.background-contain {
+  background-size: contain;
+  background-color: white;
+}
+
+.slides section.smaller-font {
+  font-size: 26px;
+}
+
+.slides section.smallest-font {
+  font-size: 22px;
+}
